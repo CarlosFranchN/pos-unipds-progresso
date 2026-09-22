@@ -1,1 +1,0 @@
-The sum of prices for eatable products (rice and beans) is $50.86

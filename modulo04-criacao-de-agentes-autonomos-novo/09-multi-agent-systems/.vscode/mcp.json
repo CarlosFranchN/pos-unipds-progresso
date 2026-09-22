@@ -1,9 +1,0 @@
-{
-  "servers": {
-    "opspilot": {
-      "type": "stdio",
-      "command": "npm",
-      "args": ["--prefix", "${workspaceFolder}", "run", "--silent", "mcp"]
-    }
-  }
-}
