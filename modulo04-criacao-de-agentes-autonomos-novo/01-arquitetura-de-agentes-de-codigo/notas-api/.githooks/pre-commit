@@ -1,3 +1,0 @@
-set -e
-echo "pre-commit: typecheck..." && npm run typecheck
-echo "pre-commit: testes..." && npm run test
